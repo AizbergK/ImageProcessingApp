@@ -8,5 +8,5 @@ As part of a university project I implemented in a provided framework these algo
 - Two Step Otsu Thresh
 - Connected Components using BFS
 
-![demo1](imgs/demo/cany.png)
-![demo2](imgs/demo/skew.png)
+![demo1](Imgs/demo/cany.png)
+![demo2](Imgs/demo/skew.png)
