@@ -9,4 +9,4 @@ As part of a university project I implemented in a provided framework these algo
 - Connected Components using BFS
 
 ![demo1](imgs/demo/cany.png)
-![demo1](imgs/demo/skew.png)
+![demo2](imgs/demo/skew.png)
